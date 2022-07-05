@@ -5,7 +5,7 @@ I am currently pursuing data analysis because I can make data alive by adding vi
 * 🔭 I'm currently learning models of inflation
 * 👯 I’m looking to collaborate on projects related to cosmological research
 * 💬 Ask me about role of data analysis in modern physics
-* 📫 How to reach me: Write me an Email to the account linked on my profile
+* 📫 How to reach me: Drop me a message on my LinkedIn profile
 
 ### My Interests
 My primary interest is Cosmology and High Energy Physics. I pursue data analysis because I really love to play with cosmological datasets. I am fascinated by the billions of observations collected to capture first picture of black hole. Thus, I get instincts to learn data handling because it uses all powerful tools of statistics to give us real time outputs. 
