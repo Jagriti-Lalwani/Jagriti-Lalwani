@@ -5,7 +5,8 @@
 **Jagriti-Lalwani/Jagriti-Lalwani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+I am currently pursuing data analysis because I can make data alive by adding visulaizations to it. It is intriguing, challenging and most flexible domain of working. 
+A data analyst can work in science observatories, health sector, media, entertainment and business sector. I am an extrovert and I believe that this is the right field for people who love to try new things. 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
