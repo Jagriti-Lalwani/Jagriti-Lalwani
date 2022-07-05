@@ -14,15 +14,15 @@ My primary interest is Cosmology and High Energy Physics. I pursue data analysis
 I am currently working as science and mathematics teacher. I am seeking opportunities to work as data analyst in science domain.
 
 ### Qualifications
-*Langara College, Vancouver, BC, Canada*<br/>
+***Langara College, Vancouver, BC, Canada***<br/>
 Post Degree Diploma In Data Analytics<br/>
 Anticipated Graduation : May 2023<br/>
 
-*Guru Nanak Girls College, Model Town, Ludhiana, India*<br/>
+***Guru Nanak Girls College, Model Town, Ludhiana, India***<br/>
 Master of Physics<br/>
 Graduated : May 2018<br/>
 
-*Government College, Malerkotla, Punjab, India*<br/>
+***Government College, Malerkotla, Punjab, India***<br/>
 Bachelor of Science<br/>
 Graduated : June 2015<br/>
 <!--
