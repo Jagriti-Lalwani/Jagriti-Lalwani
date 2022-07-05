@@ -1,4 +1,4 @@
-### Hi, I am Jagriti 👋
+### Hi, I'm Jagriti 👋
 ![Add a heading](https://user-images.githubusercontent.com/108701688/177268120-03a2989f-2065-4174-b5f4-e85332635416.png)
 I am currently pursuing data analysis because I can make data alive by adding visulaizations to it. It is intriguing, challenging and most flexible domain of working. A data analyst can work in science observatories, health sector, media, entertainment and business sector. I am an extrovert and I believe that this is the right field for people who love to try new things. 
 * 😎 I'm currently working on some astronomical datasets
