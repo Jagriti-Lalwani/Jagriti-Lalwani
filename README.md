@@ -14,14 +14,17 @@ My primary interest is Cosmology and High Energy Physics. I pursue data analysis
 I am currently working as science and mathematics teacher. I am seeking opportunities to work as data analyst in science domain.
 
 ### Qualifications
-*Langara College, Vancouver, BC, Canada*
-Post Degree Diploma In Data Analytics                                              Anticipated Graduation : May 2023
+*Langara College, Vancouver, BC, Canada*<br/>
+Post Degree Diploma In Data Analytics<br/>                                           
+Anticipated Graduation : May 2023
 
-*Guru Nanak Girls College, Model Town, Ludhiana, India*
-Master of Physics                                                                               Graduated : May 2018
+*Guru Nanak Girls College, Model Town, Ludhiana, India*<br/>
+Master of Physics<br/>                                                                              
+Graduated : May 2018
 
-*Government College, Malerkotla, Punjab, India*
-Bachelor of Science                                                                             Graduated : June 2015
+*Government College, Malerkotla, Punjab, India*<br/>
+Bachelor of Science<br/>                                                     
+Graduated : June 2015
 <!--
 **Jagriti-Lalwani/Jagriti-Lalwani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
