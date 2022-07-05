@@ -6,6 +6,10 @@ I am currently pursuing data analysis because I can make data alive by adding vi
 * 👯 I’m looking to collaborate on projects related to cosmological research
 * 💬 Ask me about role of data analysis in modern physics
 * 📫 How to reach me: Write me an Email to the account linked on my profile
+
+### My Interests
+My primary interest is Cosmology and High Energy Physics. I pursue data analysis because I really love to play with cosmological datasets. I am fascinated by the observations collected to capture first picture of black hole. I thus develop instincts to learn data handling because it use all powerful tools of statistics to give us real time outputs. 
+
 <!--
 **Jagriti-Lalwani/Jagriti-Lalwani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
