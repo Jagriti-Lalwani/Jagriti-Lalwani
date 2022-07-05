@@ -25,6 +25,8 @@ Graduated : May 2018<br/>
 ***Government College, Malerkotla, Punjab, India***<br/>
 Bachelor of Science<br/>
 Graduated : June 2015<br/>
+
+Connect with me on <a href="[url](https://www.linkedin.com/in/jagriti-lalwani-693b3a228/)">LinkedIn </a>
 <!--
 **Jagriti-Lalwani/Jagriti-Lalwani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
