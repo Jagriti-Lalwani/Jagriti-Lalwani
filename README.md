@@ -15,15 +15,15 @@ I am currently working as science and mathematics teacher. I am seeking opportun
 
 ### Qualifications
 *Langara College, Vancouver, BC, Canada*<br/>
-Post Degree Diploma In Data Analytics<br/>                                           
+Post Degree Diploma In Data Analytics<br/>
 Anticipated Graduation : May 2023
 
 *Guru Nanak Girls College, Model Town, Ludhiana, India*<br/>
-Master of Physics<br/>                                                                              
+Master of Physics<br/>        
 Graduated : May 2018
 
 *Government College, Malerkotla, Punjab, India*<br/>
-Bachelor of Science<br/>                                                     
+Bachelor of Science<br/>
 Graduated : June 2015
 <!--
 **Jagriti-Lalwani/Jagriti-Lalwani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
