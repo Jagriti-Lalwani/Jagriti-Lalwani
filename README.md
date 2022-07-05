@@ -1,11 +1,11 @@
 ### Hi, I am Jagriti 👋
 ![Add a heading](https://user-images.githubusercontent.com/108701688/177268120-03a2989f-2065-4174-b5f4-e85332635416.png)
 I am currently pursuing data analysis because I can make data alive by adding visulaizations to it. It is intriguing, challenging and most flexible domain of working. A data analyst can work in science observatories, health sector, media, entertainment and business sector. I am an extrovert and I believe that this is the right field for people who love to try new things. 
--😎 I'm currently working on some astronomical datasets
--🔭 I'm currently learning models of inflation
--👯 I’m looking to collaborate on projects related to cosmological research
--💬 Ask me about role of data analysis in modern physics
--📫 How to reach me: Write me an Email to the account linked on my profile
+-!😎 I'm currently working on some astronomical datasets
+-!🔭 I'm currently learning models of inflation
+-!👯 I’m looking to collaborate on projects related to cosmological research
+-!💬 Ask me about role of data analysis in modern physics
+-!📫 How to reach me: Write me an Email to the account linked on my profile
 <!--
 **Jagriti-Lalwani/Jagriti-Lalwani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
