@@ -11,7 +11,7 @@ I am currently pursuing data analysis because I can make data alive by adding vi
 My primary interest is Cosmology and High Energy Physics. I pursue data analysis because I really love to play with cosmological datasets. I am fascinated by the billions of observations collected to capture first picture of black hole. Thus, I get instincts to learn data handling because it uses all powerful tools of statistics to give us real time outputs. 
 
 ### Work Experience
-I am currently working as science and mathematics teacher. I am seeking opportunities to work as data analyst in science domain.
+I am currently working as science and mathematics teacher. Moreove, I am seeking opportunities to work as data analyst in science domain.
 
 ### Qualifications
 ***Langara College, Vancouver, BC, Canada***<br/>
