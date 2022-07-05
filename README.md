@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi, I am Jagriti 👋
+![Add a heading](https://user-images.githubusercontent.com/108701688/177268120-03a2989f-2065-4174-b5f4-e85332635416.png)
 
 <!--
 **Jagriti-Lalwani/Jagriti-Lalwani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
