@@ -5,7 +5,7 @@ I am currently pursuing data analysis because I can make data alive by adding vi
 * 🔭 I'm currently learning models of inflation
 * 👯 I’m looking to collaborate on projects related to cosmological research
 * 💬 Ask me about role of data analysis in modern physics
-* 📫 How to reach me: Drop me a message on my LinkedIn profile
+* 📫 How to reach me: Connect with me on <a href="https://www.linkedin.com/in/jagriti-lalwani-693b3a228/">LinkedIn </a>
 
 ### My Interests
 My primary interest is Cosmology and High Energy Physics. I pursue data analysis because I really love to play with cosmological datasets. I am fascinated by the billions of observations collected to capture first picture of black hole. Thus, I get instincts to learn data handling because it uses all powerful tools of statistics to give us real time outputs. 
@@ -26,13 +26,12 @@ Graduated : May 2018<br/>
 Bachelor of Science<br/>
 Graduated : June 2015<br/>
 
-Connect with me on <a href="https://www.linkedin.com/in/jagriti-lalwani-693b3a228/">LinkedIn </a>
 
 ### GitHub Stats
-[![Jagriti's github stats](https://github-readme-stats.vercel.app/api?username=Jagriti-Lalwani&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+[![Jagriti's github stats](https://github-readme-stats.vercel.app/api?username=Jagriti-Lalwani&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)<br/>
 
 ### Total Contributions and Streaks
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jagriti-Lalwani"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jagriti-Lalwani"/><br/>
 <!--
 **Jagriti-Lalwani/Jagriti-Lalwani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
