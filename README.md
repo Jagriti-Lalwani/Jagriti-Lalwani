@@ -5,6 +5,7 @@ I am currently pursuing data analysis because I can make data alive by adding vi
 * 🔭 I'm currently learning models of inflation
 * 👯 I’m looking to collaborate on projects related to cosmological research
 * 💬 Ask me about role of data analysis in modern physics
+* 😄 Pronouns: She/her
 * 📫 How to reach me: Connect with me on <a href="https://www.linkedin.com/in/jagriti-lalwani-693b3a228/">LinkedIn </a>
 
 ### My Interests
