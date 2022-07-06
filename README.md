@@ -28,8 +28,10 @@ Graduated : June 2015<br/>
 
 Connect with me on <a href="https://www.linkedin.com/in/jagriti-lalwani-693b3a228/">LinkedIn </a>
 
+### GitHub Stats
 [![Jagriti's github stats](https://github-readme-stats.vercel.app/api?username=Jagriti-Lalwani&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
+### Total Contributions and Streaks
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jagriti-Lalwani"/>
 <!--
 **Jagriti-Lalwani/Jagriti-Lalwani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
